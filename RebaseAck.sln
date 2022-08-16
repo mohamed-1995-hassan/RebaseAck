@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RebaseAck", "RebaseAck\RebaseAck.csproj", "{3CDCB28D-821C-46E6-BFF1-140117CEBE49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDCB28D-821C-46E6-BFF1-140117CEBE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDCB28D-821C-46E6-BFF1-140117CEBE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDCB28D-821C-46E6-BFF1-140117CEBE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDCB28D-821C-46E6-BFF1-140117CEBE49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7510FC51-D038-45A8-A71F-7B2185E4914F}
+	EndGlobalSection
+EndGlobal
